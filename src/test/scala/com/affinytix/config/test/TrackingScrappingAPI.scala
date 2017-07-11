@@ -98,15 +98,18 @@ object TrackingScrappingAPI {
           techEvtId <- techEvtIdQ
         } yield (t._1._1, evtTypeId, pageTypeId, userActionId, techEvtId)
 
-        technicalEvents.map(
+        val q = technicalEvents.map(
           i => (i.name, i.eventTypeId, i.pageTypeId, i.userActionId, i.dependentId)
-        ).forceInsertQuery(toIns) // compiling + RuntimeError
-      //        ).forceInsertQuery(Query( // compiling + inserting
-      //          "toto",
-      //          PK[EventTypeTable](1),
-      //          PK[PageTypeTable](1),
-      //          Rep.None[PK[UserActionTable]],
-      //          Rep.None[PK[TechnicalEventTable]]))
+//        ).forceInsertQuery(toIns) // compiling + RuntimeError
+              ).forceInsertQuery(Query( // compiling + inserting
+          "toto",
+          PK[EventTypeTable](1),
+          PK[PageTypeTable](1),
+          Rep.None[PK[UserActionTable]],
+          Rep.None[PK[TechnicalEventTable]]))
+
+        q.statements.foreach(x => logger.info(s"$x"))
+        q
     }
 
     exec(DBIO.sequence(res))
