@@ -1,0 +1,193 @@
+"click any element"	click	any	"click any element"	NULL	NULL	NULL	NULL	NULL
+"click button add to cart in offer page"	click	"offer page"	"add to cart"	NULL	NULL	NULL	NULL	NULL
+"click button add to cart ajax in category page"	click	"category page"	"add to cart"	NULL	NULL	NULL	NULL	NULL
+"click button quantity up in cart page"	click	"cart page"	"add to cart"	NULL	NULL	NULL	NULL	NULL
+"click close button or background popup"	click	any	"wepingo close popup"	NULL	NULL	NULL	NULL	NULL
+"click validate button popup"	click	any	"wepingo validate popup"	NULL	NULL	NULL	NULL	NULL
+"click button add to cart ajax in home page"	click	"home page"	"add to cart"	NULL	NULL	NULL	NULL	NULL
+"click button command validation"	click	"command validation step page"	"command validation"	NULL	NULL	NULL	NULL	NULL
+"click send question button popup"	click	any	"wepingo send question"	NULL	NULL	NULL	NULL	NULL
+"click button quantity down in cart page"	click	"cart page"	"remove from cart"	NULL	NULL	NULL	NULL	NULL
+"click button remove in cart page"	click	"cart page"	"remove from cart"	NULL	NULL	NULL	NULL	NULL
+"click insert zone"	click	any	"wepingo insert zone click"	NULL	NULL	NULL	NULL	NULL
+"click on link insert zone"	click	any	"wepingo insert zone click on link"	NULL	NULL	NULL	NULL	NULL
+"click button select shop site"	click	any	"choose location"	NULL	NULL	NULL	NULL	NULL
+"click ok after choose location"	click	any	"ask location"	NULL	NULL	NULL	NULL	NULL
+"click logo return home"	click	any	"logo return home"	NULL	NULL	NULL	NULL	NULL
+"click button cart validation"	click	"cart page"	"cart validation"	NULL	NULL	NULL	NULL	NULL
+"click button continue shopping"	click	"cart page"	"continue shopping"	NULL	NULL	NULL	NULL	NULL
+"click left discount"	click	any	"click discount"	NULL	NULL	NULL	NULL	NULL
+"click right discount"	click	any	"click discount"	NULL	NULL	NULL	NULL	NULL
+"click head discount"	click	any	"click discount"	NULL	NULL	NULL	NULL	NULL
+"click link group site"	click	any	"go group site"	NULL	NULL	NULL	NULL	NULL
+"click link info services"	click	any	"ask info services"	NULL	NULL	NULL	NULL	NULL
+"click link info commitments"	click	any	"ask info commitments"	NULL	NULL	NULL	NULL	NULL
+"click link info assistance"	click	any	"ask info assistance"	NULL	NULL	NULL	NULL	NULL
+"click link info payment"	click	any	"ask info payment"	NULL	NULL	NULL	NULL	NULL
+"click link info delivery mode"	click	any	"ask info delivery mode"	NULL	NULL	NULL	NULL	NULL
+"click link contact"	click	any	"ask contact"	NULL	NULL	NULL	NULL	NULL
+"click breadcrumb link"	click	any	"use breadcrumb"	NULL	NULL	NULL	NULL	NULL
+"compare button click"	click	any	"wepingo compare button click"	NULL	NULL	NULL	NULL	NULL
+"click authenticate button on authentification page"	click	"authentification page"	authenticate	NULL	NULL	NULL	NULL	NULL
+"click create account button on authentification page"	click	"authentification page"	"want create account"	NULL	NULL	NULL	NULL	NULL
+"click valid account creation button on account creation page"	click	"account creation page"	"valid account creation"	NULL	NULL	NULL	NULL	NULL
+"click edit acccount button on account page"	click	"account page"	"edit acccount"	NULL	NULL	NULL	NULL	NULL
+"click authenticate button on command account step page"	click	"command account step page"	authenticate	NULL	NULL	NULL	NULL	NULL
+"click create account button on command account step page"	click	"command account step page"	"want create account"	NULL	NULL	NULL	NULL	NULL
+"click valid account creation button on command account step page"	click	"command account step page"	"valid account creation"	NULL	NULL	NULL	NULL	NULL
+"click edit acccount button on command account step page"	click	"command account step page"	"edit acccount"	NULL	NULL	NULL	NULL	NULL
+"click modify product quantity link"	click	"command delivery step page"	"modify product quantity"	NULL	NULL	NULL	NULL	NULL
+"click modify command account link"	click	"command delivery step page"	"modify command account"	NULL	NULL	NULL	NULL	NULL
+"click modify command delivery link"	click	"command delivery step page"	"modify command delivery"	NULL	NULL	NULL	NULL	NULL
+"click valid delivery button"	click	"command delivery step page"	"valid delivery"	NULL	NULL	NULL	NULL	NULL
+"click pay command button"	click	"command payment step page"	"pay command"	NULL	NULL	NULL	NULL	NULL
+"click return command cart step page link"	click	"command account step page"	"return command cart step page"	NULL	NULL	NULL	NULL	NULL
+"click return command cart step page link"	click	"command delivery step page"	"return command cart step page"	NULL	NULL	NULL	NULL	NULL
+"click return command cart step page link"	click	"command payment step page"	"return command cart step page"	NULL	NULL	NULL	NULL	NULL
+"click return command cart step page link"	click	"command validation step page"	"return command cart step page"	NULL	NULL	NULL	NULL	NULL
+"click return command account step page link"	click	"command delivery step page"	"return command account step page"	NULL	NULL	NULL	NULL	NULL
+"click return command account step page link"	click	"command payment step page"	"return command account step page"	NULL	NULL	NULL	NULL	NULL
+"click return command account step page link"	click	"command validation step page"	"return command account step page"	NULL	NULL	NULL	NULL	NULL
+"click return command delivery step page link"	click	"command payment step page"	"return command delivery step page"	NULL	NULL	NULL	NULL	NULL
+"click return command delivery step page link"	click	"command validation step page"	"return command delivery step page"	NULL	NULL	NULL	NULL	NULL
+"click return command payment step page link"	click	"command validation step page"	"return command payment step page"	NULL	NULL	NULL	NULL	NULL
+"click deconnexion link"	click	any	deconnexion	NULL	NULL	NULL	NULL	NULL
+"click change captcha on account creation page"	click	"account creation page"	"change captcha"	NULL	NULL	NULL	NULL	NULL
+"click change captcha on account page"	click	"account page"	"change captcha"	NULL	NULL	NULL	NULL	NULL
+"click change captcha on command account step page"	click	"command account step page"	"change captcha"	NULL	NULL	NULL	NULL	NULL
+"click forgot password link on authentification page"	click	"authentification page"	"forgot password"	NULL	NULL	NULL	NULL	NULL
+"click forgot password link on command account step page"	click	"command account step page"	"forgot password"	NULL	NULL	NULL	NULL	NULL
+"click modify password link on account page"	click	"account page"	"modify password"	NULL	NULL	NULL	NULL	NULL
+"click modify password link on command account step page"	click	"command account step page"	"modify password"	NULL	NULL	NULL	NULL	NULL
+"click see shop site hours link on command delivery step page"	click	"command delivery step page"	"see shop site hours"	NULL	NULL	NULL	NULL	NULL
+"click see shop site hours link on command payment step page"	click	"command payment step page"	"see shop site hours"	NULL	NULL	NULL	NULL	NULL
+"click see terms of sales link"	click	"command payment step page"	"see terms of sales"	NULL	NULL	NULL	NULL	NULL
+"click see more about payment link"	click	"command payment step page"	"see more about payment"	NULL	NULL	NULL	NULL	NULL
+"click compare add"	click	any	"wepingo compare add"	NULL	NULL	NULL	NULL	NULL
+"click compare remove"	click	any	"wepingo compare remove"	NULL	NULL	NULL	NULL	NULL
+"click compare open modal"	click	any	"wepingo compare open modal"	NULL	NULL	NULL	NULL	NULL
+"click compare close modal"	click	any	"wepingo compare close modal"	NULL	NULL	NULL	NULL	NULL
+"click compare open bar"	click	any	"wepingo compare open bar"	NULL	NULL	NULL	NULL	NULL
+"click compare close bar"	click	any	"wepingo compare close bar"	NULL	NULL	NULL	NULL	NULL
+"click compare empty list"	click	any	"wepingo compare empty list"	NULL	NULL	NULL	NULL	NULL
+"click compare add to cart"	click	any	"wepingo compare add to cart"	NULL	NULL	NULL	NULL	NULL
+"click compare product link"	click	any	"wepingo compare click on product"	NULL	NULL	NULL	NULL	NULL
+"click button add to cart ajax in sub category page"	click	"sub category page"	"add to cart"	NULL	NULL	NULL	NULL	NULL
+"click sorting choice category"	click	"category page"	"click sorting choice"	NULL	NULL	NULL	NULL	NULL
+"click sorting choice universe"	click	"universe page"	"click sorting choice"	NULL	NULL	NULL	NULL	NULL
+"click choose range price category"	click	"category page"	"click sorting range price"	NULL	NULL	NULL	NULL	NULL
+"click choose range price universe"	click	"universe page"	"click sorting range price"	NULL	NULL	NULL	NULL	NULL
+"click selection sorting category"	click	"category page"	"click selection sorting"	NULL	NULL	NULL	NULL	NULL
+"click selection sorting universe"	click	"universe page"	"click selection sorting"	NULL	NULL	NULL	NULL	NULL
+"click brand sorting category"	click	"category page"	"click brand sorting"	NULL	NULL	NULL	NULL	NULL
+"click brand sorting universe"	click	"universe page"	"click brand sorting"	NULL	NULL	NULL	NULL	NULL
+"click complementary product "	click	"offer page"	"click complementary product"	NULL	NULL	NULL	NULL	NULL
+"click product presentation"	click	"offer page"	"click product presentation"	NULL	NULL	NULL	NULL	NULL
+"click technical characteristics"	click	"offer page"	"click product characteristics"	NULL	NULL	NULL	NULL	NULL
+"click link insert zone home page"	click	"home page"	"wepingo insert zone click on link"	NULL	NULL	NULL	NULL	NULL
+"click insert zone offer page"	click	"offer page"	"wepingo insert zone click"	NULL	NULL	NULL	NULL	NULL
+"click  insert zone category page"	click	"category page"	"wepingo insert zone click"	NULL	NULL	NULL	NULL	NULL
+"click  insert zone search page"	click	"search page"	"wepingo insert zone click"	NULL	NULL	NULL	NULL	NULL
+"click  insert zone thematique page"	click	thematique	"wepingo insert zone click"	NULL	NULL	NULL	NULL	NULL
+"click link insert zone offer page"	click	"offer page"	"wepingo insert zone click on link"	NULL	NULL	NULL	NULL	NULL
+"click link insert zone category page"	click	"category page"	"wepingo insert zone click on link"	NULL	NULL	NULL	NULL	NULL
+"clicklink insert zone search page"	click	"search page"	"wepingo insert zone click on link"	NULL	NULL	NULL	NULL	NULL
+"click link insert zone thematique page"	click	thematique	"wepingo insert zone click on link"	NULL	NULL	NULL	NULL	NULL
+"click button cart validation"	click	"command validation step page"	"cart validation"	NULL	NULL	NULL	NULL	NULL
+"click button quantity down in cart"	click	"command validation step page"	"remove from cart"	NULL	NULL	NULL	NULL	NULL
+"click button remove in cart page"	click	"command validation step page"	"remove from cart"	NULL	NULL	NULL	NULL	NULL
+"click button quantity up in command validation step page"	click	"command validation step page"	"add to cart"	NULL	NULL	NULL	NULL	NULL
+"click button continue shopping "	click	"command validation step page"	"continue shopping"	NULL	NULL	NULL	NULL	NULL
+"click modify product quantity link"	click	"command validation step page"	"modify product quantity"	NULL	NULL	NULL	NULL	NULL
+"click button add to cart ajax in universe page"	click	"universe page"	"add to cart"	NULL	NULL	NULL	NULL	NULL
+"click button quantity up in offer page"	click	"offer page"	"add to cart"	NULL	NULL	NULL	NULL	NULL
+"click add discount code"	click	"command validation step page"	"add discount code"	NULL	NULL	NULL	NULL	NULL
+"click button continue shopping offer page"	click	"offer page"	"continue shopping"	NULL	NULL	NULL	NULL	NULL
+"click authenticate button on cart page"	click	"cart page"	authenticate	NULL	NULL	NULL	NULL	NULL
+"click valid account creation button on cart page"	click	"cart page"	"valid account creation"	NULL	NULL	NULL	NULL	NULL
+"click modify product quantity link"	click	"offer page"	"modify product quantity"	NULL	NULL	NULL	NULL	NULL
+"click authenticate button on any page"	click	any	authenticate	NULL	NULL	NULL	NULL	NULL
+"click cgv on any page"	click	any	"click cgv"	NULL	NULL	NULL	NULL	NULL
+"click contact us on any page "	click	any	"click contact us"	NULL	NULL	NULL	NULL	NULL
+"click offer search page"	click	"search page"	"click offer search page"	NULL	NULL	NULL	NULL	NULL
+"click deconnexion link acount page"	click	"account page"	deconnexion	NULL	NULL	NULL	NULL	NULL
+"click button add to cart in news page"	click	"news page"	"add to cart"	NULL	NULL	NULL	NULL	NULL
+"click button add to cart in sales page"	click	"sales page"	"add to cart"	NULL	NULL	NULL	NULL	NULL
+"click see pack on pack page"	click	"pack page"	"see pack"	NULL	NULL	NULL	NULL	NULL
+"mouseover offer img in offer page"	mouseover	"offer page"	"offer img overfly"	NULL	NULL	NULL	NULL	NULL
+"mouseover offer img in category page"	mouseover	"category page"	"offer img overfly"	NULL	NULL	NULL	NULL	NULL
+"mouseover popup"	mouseover	any	"wepingo popup overfly"	NULL	NULL	NULL	NULL	NULL
+"mouseover offer img in home page"	mouseover	"home page"	"offer img overfly"	NULL	NULL	NULL	NULL	NULL
+"mouseover insert zone"	mouseover	any	"wepingo insert zone overfly"	NULL	NULL	NULL	NULL	NULL
+"mouseover offer in category page"	mouseover	"category page"	"offer overfly"	NULL	NULL	NULL	NULL	NULL
+"mouseover offer in home page"	mouseover	"home page"	"offer overfly"	NULL	NULL	NULL	NULL	NULL
+"mouseover category menu"	mouseover	any	"consult category menu"	NULL	NULL	NULL	NULL	NULL
+"mouseover compare product"	mouseover	any	"wepingo compare product overfly"	NULL	NULL	NULL	NULL	NULL
+"mouseover compare specifications"	mouseover	any	"wepingo compare specifications overfly"	NULL	NULL	NULL	NULL	NULL
+"mouseover offer img in sub category page"	mouseover	"sub category page"	"offer img overfly"	NULL	NULL	NULL	NULL	NULL
+"mouseover offer in sub category page"	mouseover	"sub category page"	"offer overfly"	NULL	NULL	NULL	NULL	NULL
+"mouseover product presentation"	mouseover	"offer page"	"overfly product presentation"	NULL	NULL	NULL	NULL	NULL
+"mouseover technical characteristics"	mouseover	"offer page"	"overfly product characteristics"	NULL	NULL	NULL	NULL	NULL
+"mouseover insert zone offer page"	mouseover	"offer page"	"wepingo insert zone overfly"	NULL	NULL	NULL	NULL	NULL
+"mouseover insert zone category page"	mouseover	"category page"	"wepingo insert zone overfly"	NULL	NULL	NULL	NULL	NULL
+"mouseover insert zone search page"	mouseover	"search page"	"wepingo insert zone overfly"	NULL	NULL	NULL	NULL	NULL
+"mouseover insert zone thematique page"	mouseover	thematique	"wepingo insert zone overfly"	NULL	NULL	NULL	NULL	NULL
+"mousover cgv on any page "	mouseover	any	"overfly cgv"	NULL	NULL	NULL	NULL	NULL
+"mouseover contact us on any page"	mouseover	any	"overfly contact us"	NULL	NULL	NULL	NULL	NULL
+"mouseout offer img in offer page"	mouseout	"offer page"	NULL	"mouseover offer img in offer page"	mouseover	"offer page"	"offer img overfly"	NULL
+"mouseout offer img in category page"	mouseout	"category page"	NULL	"mouseover offer img in category page"	mouseover	"category page"	"offer img overfly"	NULL
+"mouseout popup"	mouseout	any	NULL	"mouseover popup"	mouseover	any	"wepingo popup overfly"	NULL
+"mouseout offer img in home page"	mouseout	"home page"	NULL	"mouseover offer img in home page"	mouseover	"home page"	"offer img overfly"	NULL
+"mouseout insert zone"	mouseout	any	NULL	"mouseover insert zone"	mouseover	any	"wepingo insert zone overfly"	NULL
+"mouseout offer in category page"	mouseout	"category page"	NULL	"mouseover offer in category page"	mouseover	"category page"	"offer overfly"	NULL
+"mouseout offer in home page"	mouseout	"home page"	NULL	"mouseover offer in home page"	mouseover	"home page"	"offer overfly"	NULL
+"mouseout category menu"	mouseout	any	NULL	"mouseover category menu"	mouseover	any	"consult category menu"	NULL
+"mouseout compare product"	mouseout	any	NULL	"mouseover compare product"	mouseover	any	"wepingo compare product overfly"	NULL
+"mouseout compare specifications"	mouseout	any	NULL	"mouseover compare specifications"	mouseover	any	"wepingo compare specifications overfly"	NULL
+"mouseout offer img in sub category page"	mouseout	"sub category page"	NULL	"mouseover offer img in sub category page"	mouseover	"sub category page"	"offer img overfly"	NULL
+"mouseout offer in sub category page"	mouseout	"sub category page"	NULL	"mouseover offer in sub category page"	mouseover	"sub category page"	"offer overfly"	NULL
+"mouseout insert zone home page"	mouseout	"home page"	NULL	"click insert zone"	click	any	"wepingo insert zone click"	NULL
+"mouseout insert zone offer page"	mouseout	"offer page"	NULL	"mouseover insert zone offer page"	mouseover	"offer page"	"wepingo insert zone overfly"	NULL
+"mouseout insert zone category page"	mouseout	"category page"	NULL	"mouseover insert zone category page"	mouseover	"category page"	"wepingo insert zone overfly"	NULL
+"mouseout insert zone search page"	mouseout	"search page"	NULL	"mouseover insert zone search page"	mouseover	"search page"	"wepingo insert zone overfly"	NULL
+"mouseout insert zone thematique "	mouseout	thematique	NULL	"mouseover insert zone thematique page"	mouseover	thematique	"wepingo insert zone overfly"	NULL
+"mouseout product presentation"	mouseout	"offer page"	NULL	"mouseover product presentation"	mouseover	"offer page"	"overfly product presentation"	NULL
+"mouseout technical characteristics"	mouseout	"offer page"	NULL	"mouseover technical characteristics"	mouseover	"offer page"	"overfly product characteristics"	NULL
+"mouseout cgv on any page "	mouseout	any	NULL	"mousover cgv on any page "	mouseover	any	"overfly cgv"	NULL
+"mouseout contact us on any page "	mouseout	any	NULL	"mouseover contact us on any page"	mouseover	any	"overfly contact us"	NULL
+"exit site"	exitsite	any	"attempt exit site"	NULL	NULL	NULL	NULL	NULL
+"load offer page"	load	"offer page"	"offer interest"	NULL	NULL	NULL	NULL	NULL
+"load offer page"	load	"offer page"	"access offer page"	NULL	NULL	NULL	NULL	NULL
+"load cart page"	load	"cart page"	"access cart page"	NULL	NULL	NULL	NULL	NULL
+"load category page"	load	"category page"	"access category page"	NULL	NULL	NULL	NULL	NULL
+"load home page"	load	"home page"	"access home page"	NULL	NULL	NULL	NULL	NULL
+"load any page"	load	any	"access any page"	NULL	NULL	NULL	NULL	NULL
+"load search page"	load	"search page"	"access search page"	NULL	NULL	NULL	NULL	NULL
+"load thematique page"	load	thematique	"access thematique page"	NULL	NULL	NULL	NULL	NULL
+"load authentification page"	load	"authentification page"	"access authentification page"	NULL	NULL	NULL	NULL	NULL
+"load account creation page"	load	"account creation page"	"access account creation page"	NULL	NULL	NULL	NULL	NULL
+"load account page"	load	"account page"	"access account page"	NULL	NULL	NULL	NULL	NULL
+"load history commands page"	load	"history commands page"	"access history commands page"	NULL	NULL	NULL	NULL	NULL
+"load command account step page"	load	"command account step page"	"access command account step page"	NULL	NULL	NULL	NULL	NULL
+"load command delivery step page"	load	"command delivery step page"	"access command delivery step page"	NULL	NULL	NULL	NULL	NULL
+"load command payment step page"	load	"command payment step page"	"access command payment step page"	NULL	NULL	NULL	NULL	NULL
+"load command validation step page"	load	"command validation step page"	"access command validation step page"	NULL	NULL	NULL	NULL	NULL
+"load universe page"	load	"universe page"	"access universe page"	NULL	NULL	NULL	NULL	NULL
+"load sub category page"	load	"sub category page"	"access sub category page"	NULL	NULL	NULL	NULL	NULL
+"load sub sub category page"	load	"sub sub category page"	"acess sub sub category page"	NULL	NULL	NULL	NULL	NULL
+"load shipping option step page"	load	"shipping option step page"	"access shipping option step page"	NULL	NULL	NULL	NULL	NULL
+"load pack page "	load	"pack page"	"access pack page"	NULL	NULL	NULL	NULL	NULL
+"load news page"	load	"news page"	"access news page"	NULL	NULL	NULL	NULL	NULL
+"load brand page "	load	"brand page"	"access brand page"	NULL	NULL	NULL	NULL	NULL
+"load sales page"	load	"sales page"	"access sales page"	NULL	NULL	NULL	NULL	NULL
+"unload offer page"	beforeunload	"offer page"	NULL	"load offer page"	load	"offer page"	"offer interest"	NULL
+"user start activity on page"	startuseractivity	any	"user is active on page"	NULL	NULL	NULL	NULL	NULL
+"user stop activity on page"	stopuseractivity	any	NULL	"user start activity on page"	startuseractivity	any	"user is active on page"	NULL
+"lost focus search bar"	blur	any	"use search bar"	NULL	NULL	NULL	NULL	NULL
+"lost focus input account form on account creation page"	blur	"account creation page"	"use input account form"	NULL	NULL	NULL	NULL	NULL
+"lost focus input account form on account page"	blur	"account page"	"use input account form"	NULL	NULL	NULL	NULL	NULL
+"lost focus input account form on command account step page"	blur	"command account step page"	"use input account form"	NULL	NULL	NULL	NULL	NULL
+"lost focus change product delivery mode"	blur	"command delivery step page"	"change product delivery mode"	NULL	NULL	NULL	NULL	NULL
+"focus offer page"	focus	"offer page"	"redisplay offer page"	NULL	NULL	NULL	NULL	NULL
+"lost focus compare change category"	mouseout	any	"wepingo compare change category"	NULL	NULL	NULL	NULL	NULL
+"lost focus compare search product"	mouseout	any	"wepingo compare use search product"	NULL	NULL	NULL	NULL	NULL
